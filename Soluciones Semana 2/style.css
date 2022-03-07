@@ -1,0 +1,121 @@
+* {
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-style: italic;
+}
+body{
+	margin: 0;
+	background-color: #D0E3C4;
+}
+.custom_form{
+	background-image: url("img/cake_flavors3.jpg");
+	background-repeat: no-repeat;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+  	border-radius: 8%;
+	text-align: left;
+	height: auto;
+	width: 50%;
+	padding: 20px;
+	color: white;
+}
+.cake_type {
+	text-align: center;
+	flex: 30%;
+	padding: 10px;
+	color: #922D50;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	flex-direction: row;
+}
+img {
+  max-height: 75%;
+  min-width: 75%;
+  border-radius: 8%;
+}
+footer{
+	min-height: 250px;
+	background-color: #922D50;
+	color: white;
+	font-size: large;
+	text-align: center;
+	font-style: italic;
+	position: relative;
+	margin: 0;
+	width: 100%;
+	bottom: -50px;
+}
+h1,h2,p {
+	text-align: center;
+	color: #922D50;
+}
+h4{
+	color: white;
+}
+ul {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  list-style-type: none;
+  top: 0;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #922D50;
+}
+
+li {
+  float: left;
+  height: auto;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  height: max-content;
+}
+
+a {
+	font-size: x-large;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #D0E3C4;
+  color: #922D50;
+}
+form {
+	margin: 10px;
+	text-align: center;
+}
+input{
+	color: #922D50;
+	background-color: white;
+	border-radius: 15%;
+	border: 0;
+	font-size: medium;
+}
+th {
+	background-color: #922D50;
+	color: white;
+	padding: 10px;
+}
+td {
+	background-color: #D0E3C4;
+	color: #922D50;
+	padding: 10px;
+	border-color: #922D50;
+	border: 2px solid;
+}
+table {
+	border-collapse: collapse;
+	margin: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
