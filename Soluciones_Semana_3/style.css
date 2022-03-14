@@ -1,0 +1,68 @@
+* {
+	font-family: 'Fredoka', sans-serif;
+	font-weight: 600;
+}
+
+.btn {
+	background-color: rgb(55, 87, 213);
+}
+.side-img{
+	width: 100%;
+}
+.side-text{
+	width: 50%;
+	color: gray;
+	vertical-align: sub;
+	height: auto;
+}
+.titles {
+	color: #1f3e72;
+	font-weight: bolder;
+	font-size: 58pt;
+	text-align: left;
+}
+.titles2 {
+	color: #1f3e72;
+	font-weight: bolder;
+	font-size: 36pt;
+	text-align: left;
+}
+.titles3 {
+	color: #1f3e72;
+	font-size: 26pt;
+	text-align: left;
+}
+.titles4{
+	color: #1f3e72;
+	font-size: 20pt;
+	text-align: left;
+}
+p{
+	font-size: 24pt; 
+	font-weight: 100;
+}
+.text2{
+	font-size: 16pt; 
+	font-weight: 100;
+}
+.text3{
+	font-size: 14pt; 
+	font-weight: 100;
+}
+.img-card{
+	height: 64px;
+}
+.carta{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.boton2{
+	width: 100%;
+	padding: 5px;
+}
+footer {
+	background-color: #eef3ff;
+	color: grey;
+}
+.img-card2 {
+	height: 30px;
+}
