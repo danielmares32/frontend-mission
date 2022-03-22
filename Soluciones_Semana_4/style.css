@@ -14,3 +14,13 @@ img {
 #result{
   visibility: hidden;
 }
+footer {
+  height: 250px;
+  background-color: #FFDA00;
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+}
+#footer-img {
+  width: 10%;
+}
